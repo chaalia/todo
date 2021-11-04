@@ -125,7 +125,7 @@ function PlasmicTodoApp__RenderFunc(props: {
               }
             )}
           >
-            {"todos"}
+            {"Norma"}
           </div>
 
           <div
